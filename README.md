@@ -1,0 +1,2 @@
+# premium-iac-migrate-001-legacy-to-iac-migration-planne
+Your legacy infrastructure is a moving target, and migration planning is drowning in spreadsheets and Slack threads. The Legacy to IaC Migration Planner Template transforms chaos into a structured, executable roadmap—giving you complete visibility over every system, dependency, and risk before you write a single line of code.  This Notion template
